@@ -1,29 +1,29 @@
 # scripts
-[1.File Backup Script](filebackupscript.sh)  
-2.System Monitoring Script  
-3.User Account Management Script  
-4.Log Analyzer Script  
-5.Password Generator Script  
-6.Automated Software Installation Script  
-7.Network Connectivity Checker Script  
-8.Website Uptime Checker Script  
-9.Data Cleanup Script  
-10.CPU Usage Tracker Script  
-11.System Information Script  
-12.Task Scheduler Script  
-13.Disk Space Monitoring Script  
-14.Remote Server Backup Script  
-15.Environment Setup Script  
-16.File Compression/Decompression Script  
-17.Database Backup Script  
-18.Git Repository Updater Script  
-19.Directory Synchronization Script  
-20.Web Server Log Analyzer Script  
-21.System Health Check Script  
-22.Automated Database Cleanup Script  
-23.User Password Expiry Checker Script  
-24.Service Restart Script  
-25.Folder Size Checker Script  
-26.Backup Rotation Script  
-27.Remote Script Execution Script  
-28.Network Interface Information Script  
+[1.File Backup Script](filebackupscript.sh)]
+[2.System Monitoring Script](systemmonitoringscript.sh)
+[3.User Account Management Script](useraccountmanagementscript.sh)  
+[4.Log Analyzer Script](loganalyzerscript.sh)  
+[5.Password Generator Script](passwordgeneratorscript.sh)  
+[6.Automated Software Installation Script](automatedsoftwareinstallationscript.sh)  
+[7.Network Connectivity Checker Script](networkconnectivitycheckerscript.sh)
+[8.Website Uptime Checker Script](websiteuptimecheckerscript.sh)  
+[9.Data Cleanup Script](datacleanupscript.sh)
+[10.CPU Usage Tracker Script](cpuusagetrackerscript.sh)  
+[11.System Information Script](systeminformationscript.sh)  
+[12.Task Scheduler Script](taskschedulerscript.sh)  
+[13.Disk Space Monitoring Script](diskspacemonitoringscript.sh)  
+[14.Remote Server Backup Script](remoteserverbackupscript.sh)  
+[15.Environment Setup Script](environmentsetupscript.sh)  
+[16.File Compression/Decompression Script](filecompdecompscript.sh)  
+[17.Database Backup Script](databasebackupscript.sh)  
+[18.Git Repository Updater Script](gitrepositoryupdaterscript.sh)  
+[19.Directory Synchronization Script](directorysynchronizationscript.sh)  
+[20.Web Server Log Analyzer Script](webserverloganalyzerscript.sh)  
+[21.System Health Check Script](systemhealthcheckscript.sh)  
+[22.Automated Database Cleanup Script](automateddatabasecleanupscript.sh)  
+[23.User Password Expiry Checker Script](userpasswordexpirycheckerscript.sh)  
+[24.Service Restart Script](servicerestartscript.sh)  
+[25.Folder Size Checker Script](foldersizecheckerscript.sh)  
+[26.Backup Rotation Script](backuprotationscript.sh)  
+[27.Remote Script Execution Script](remotescriptexecutionscript.sh)  
+[28.Network Interface Information Script](networkinterfaceinformationscript.sh)  
