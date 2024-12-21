@@ -1,5 +1,5 @@
 # scripts
-[1.File Backup Script](filebackupscript.sh)]
+[1.File Backup Script](filebackupscript.sh)
 [2.System Monitoring Script](systemmonitoringscript.sh)
 [3.User Account Management Script](useraccountmanagementscript.sh)  
 [4.Log Analyzer Script](loganalyzerscript.sh)  
