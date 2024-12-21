@@ -5,7 +5,7 @@
 [4.Log Analyzer Script](loganalyzerscript.sh)  
 [5.Password Generator Script](passwordgeneratorscript.sh)  
 [6.Automated Software Installation Script](automatedsoftwareinstallationscript.sh)    
-[7.Network Connectivity Checker Script](networkconnectivitycheckerscript.sh)
+[7.Network Connectivity Checker Script](networkconnectivitycheckerscript.sh)  
 [8.Website Uptime Checker Script](websiteuptimecheckerscript.sh)  
 [9.Data Cleanup Script](datacleanupscript.sh)
 [10.CPU Usage Tracker Script](cpuusagetrackerscript.sh)  
